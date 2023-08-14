@@ -1,0 +1,8 @@
+1) So the input will be a vector<string> of people that are participating in the tournament
+
+ROUND ROBIN: DAY 1
+2) Then given this this string we need to randomly select people from this tournament and arrange them in a match structure. Example of what should print out below:
+    Match 1: Harsh vs Sebastian
+    - Each person will play 4 games in the round robin, so when you select a random person check to make sure that that <= 4, if its more select again
+
+TOURNAMENT SEEDING BRACKET: DAY 2
